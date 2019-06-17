@@ -58,4 +58,3 @@ lines = ax.plot(evi.T)
 blank = [ax.lines[i].set_color(cm.viridis(color)) for i, color in enumerate(C2)]
 
 
-#test comment
