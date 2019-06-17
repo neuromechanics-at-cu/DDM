@@ -56,3 +56,5 @@ ax.title.set_text('Single DDM Actor')
 C2 = [abs(x) for x in C2]
 lines = ax.plot(evi.T)
 blank = [ax.lines[i].set_color(cm.viridis(color)) for i, color in enumerate(C2)]
+
+#colin: test comment
